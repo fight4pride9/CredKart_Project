@@ -1,3 +1,0 @@
-Launching Firefox browser
-User is logged in
-Browser Closed

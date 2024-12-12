@@ -1,0 +1,10 @@
+[32mINFO    [0m root:test_CredKart_User_logins_Params_DDT_003.py:26 Testcase test_Credkart_User_Login_params_DDT_005 is started
+[32mINFO    [0m root:test_CredKart_User_logins_Params_DDT_003.py:27 Opening Browser
+[32mINFO    [0m root:test_CredKart_User_logins_Params_DDT_003.py:31 Going to CreKart URl-->https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_User_logins_Params_DDT_003.py:36 Entering email-->Credencetest@test.com
+[32mINFO    [0m root:test_CredKart_User_logins_Params_DDT_003.py:39 Entering Password-->Crdence@123
+[32mINFO    [0m root:test_CredKart_User_logins_Params_DDT_003.py:42 Click on submit button
+[32mINFO    [0m root:test_CredKart_User_logins_Params_DDT_003.py:45 verify the user login or not
+[32mINFO    [0m root:test_CredKart_User_logins_Params_DDT_003.py:54 Taking screenshot for fail
+[32mINFO    [0m root:test_CredKart_User_logins_Params_DDT_003.py:66 Testcase test_CredKart_User_Login_params_DDT_005 is Fail
+[32mINFO    [0m root:test_CredKart_User_logins_Params_DDT_003.py:67 Testcase test_CredKart_User_Login_params_DDT_005 is completed
