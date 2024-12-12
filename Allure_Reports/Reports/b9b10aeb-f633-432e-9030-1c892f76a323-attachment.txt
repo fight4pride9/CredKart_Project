@@ -1,0 +1,36 @@
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:28 Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:30 opening Browser
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:33 Going to CredKart Url-->https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:37 Reading data from excel
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:38 Reading the number rows from excel
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:41 Number of row in excel is 5
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:45 Reading the data from row number:2 in excel
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:50 Entering Email:Credencetest@test.com
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:52 Entering Password:Credence@123
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:54 Clicking login Button
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:56 Verify the user is log in or not
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:60 user Credencetest@test.com is logged in and actual result is login_pass
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:61 Taking Screenshot of for pass
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:45 Reading the data from row number:3 in excel
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:50 Entering Email:Credencetest@test.com1
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:52 Entering Password:Credence@123
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:54 Clicking login Button
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:56 Verify the user is log in or not
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:65 user Credencetest@test.com1 is logged in and actual result is login_fail
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:66 Taking Screenshot of for fail
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:45 Reading the data from row number:4 in excel
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:50 Entering Email:Credencetest@test.com
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:52 Entering Password:Credence@1231
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:54 Clicking login Button
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:56 Verify the user is log in or not
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:65 user Credencetest@test.com is logged in and actual result is login_fail
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:66 Taking Screenshot of for fail
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:45 Reading the data from row number:5 in excel
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:50 Entering Email:Credencetest@test.com1
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:52 Entering Password:Credence@1231
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:54 Clicking login Button
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:56 Verify the user is log in or not
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:65 user Credencetest@test.com1 is logged in and actual result is login_fail
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:66 Taking Screenshot of for fail
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:84 Testcase test_CredKart_User_Login_Excel_DDT_004 is Pass
+[32mINFO    [0m root:test_CredKart_user_login_Excel_DDT_002_shubham.py:85 Testcase test_CredKart_User_Login_Excel_DDT_004 is complete

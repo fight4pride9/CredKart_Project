@@ -1,0 +1,12 @@
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:105 Testcase test_CredKart_User_Login_003 is started
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:106 Opening Browser
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:110 Going to CredKart URL-->https://automation.credence.in/register
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:115 Entering name:Christopher Ward
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:117 Entering email--ftownsend@example.com
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:119 Entering password--p1Y0eNOg##
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:121 Entering confirm password--p1Y0eNOg##
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:123 Clicking on register button
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:125 Verify user register or not
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:870 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023FD3FC1450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/22c7f124-e96a-4b3b-b73f-d0b061f3c503
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:870 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023FD3FC16D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/22c7f124-e96a-4b3b-b73f-d0b061f3c503
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:870 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023FD3E3F230>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/22c7f124-e96a-4b3b-b73f-d0b061f3c503

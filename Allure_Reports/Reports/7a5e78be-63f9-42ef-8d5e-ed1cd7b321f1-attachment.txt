@@ -1,0 +1,8 @@
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:40 Testcase test_verify_CredKart_Url_001 is started
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:42 Opening Browser
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:43 Going to CredKart URL--> https://automation.credence.in
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:44 Checking the page title
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:46 Page Title:CredKart is match with expected title
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:47 Taking Screenshot
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:49 TestCase test_verify_CredKart_Url_001 is passed
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:50 Testcase test_verify_CredKart_Url_001 is completed

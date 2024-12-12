@@ -118,7 +118,7 @@ class Test_User_Profile_Class_001:
         self.rp.Enter_Email(random_email)
         self.log.info(f"Entering password--{random_password}")
         self.rp.Enter_Password(random_password)
-        self.log.info(f"Entering confirm password--{random_password}")
+        self.log.info(f"Entering c+++++++++++onfirm password--{random_password}")
         self.rp.Enter_Password(random_password)
         self.log.info("Clicking on register button")
         self.rp.Click_submit_Button()

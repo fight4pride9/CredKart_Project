@@ -1,0 +1,2 @@
+Launching Firefox browser
+Browser Closed

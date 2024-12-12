@@ -48,16 +48,14 @@ def pytest_metadata(metadata):
     metadata.pop("Platform",None)
 
 
-
-
-
-
-
-
-
-
-
-
+@pytest.fixture(params=[
+    ("Credencetest@test.com","Crdence@123","login_pass"),
+    ("Credencetest@test.com1","Crdence@123","login_fail"),
+    ("Credencetest@test.com","Crdence@1231","login_fail"),
+    ("Credencetest@test.com1","Crdence@123","login_fail"),
+    ])
+def get_data_CredKart_login(request):
+    return request.param
 
 
 

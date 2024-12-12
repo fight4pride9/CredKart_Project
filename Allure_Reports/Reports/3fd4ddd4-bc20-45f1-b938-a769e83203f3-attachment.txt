@@ -1,0 +1,3 @@
+Launching Firefox browser
+User not registered successfully
+Browser Closed
