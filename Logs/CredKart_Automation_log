@@ -1,450 +1,240 @@
-2024-12-12 17:36:50,566 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 17:36:50,566 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 17:36:50,566 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 17:36:50,567 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 17:36:50,567 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 17:36:50,567 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 17:36:51,318 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 17:36:51,318 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 17:36:51,318 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 17:36:51,318 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 17:36:51,318 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 17:36:51,318 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 17:36:52,453 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 17:36:52,453 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 17:36:52,453 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 17:36:52,454 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 17:36:52,454 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 17:36:52,454 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 17:36:52,621 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 17:36:52,621 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 17:36:52,621 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 17:36:52,654 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 17:36:52,654 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 17:36:52,654 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 17:36:53,306 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 17:36:53,306 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 17:36:53,306 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 17:36:53,306 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 17:36:53,306 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 17:36:53,306 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 17:36:53,368 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
-2024-12-12 17:36:53,368 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
-2024-12-12 17:36:53,368 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
-2024-12-12 17:36:53,386 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 17:36:53,386 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 17:36:53,386 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 17:36:54,069 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 17:36:54,069 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 17:36:54,069 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 17:36:54,075 - INFO - test_Credkart_User_Login_params_DDT_005 - 53 - Taking screenshot for fail
-2024-12-12 17:36:54,075 - INFO - test_Credkart_User_Login_params_DDT_005 - 53 - Taking screenshot for fail
-2024-12-12 17:36:54,075 - INFO - test_Credkart_User_Login_params_DDT_005 - 53 - Taking screenshot for fail
-2024-12-12 17:36:54,144 - INFO - test_Credkart_User_Login_params_DDT_005 - 65 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 17:36:54,144 - INFO - test_Credkart_User_Login_params_DDT_005 - 65 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 17:36:54,144 - INFO - test_Credkart_User_Login_params_DDT_005 - 65 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 17:36:54,144 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 17:36:54,144 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 17:36:54,144 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 17:36:54,358 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 17:36:54,358 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 17:36:54,358 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 17:36:54,367 - INFO - test_Credkart_User_Login_params_DDT_005 - 53 - Taking screenshot for fail
-2024-12-12 17:36:54,367 - INFO - test_Credkart_User_Login_params_DDT_005 - 53 - Taking screenshot for fail
-2024-12-12 17:36:54,367 - INFO - test_Credkart_User_Login_params_DDT_005 - 53 - Taking screenshot for fail
-2024-12-12 17:36:54,414 - INFO - test_Credkart_User_Login_params_DDT_005 - 61 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 17:36:54,414 - INFO - test_Credkart_User_Login_params_DDT_005 - 61 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 17:36:54,414 - INFO - test_Credkart_User_Login_params_DDT_005 - 61 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 17:36:54,414 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 17:36:54,414 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 17:36:54,414 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 17:40:31,853 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 17:40:31,853 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 17:40:31,853 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 17:40:31,854 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 17:40:31,854 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 17:40:31,854 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 17:40:33,812 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 17:40:33,812 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 17:40:33,812 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 17:40:33,812 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 17:40:33,812 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 17:40:33,812 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 17:40:33,909 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 17:40:33,909 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 17:40:33,909 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 17:40:33,977 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 17:40:33,977 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 17:40:33,977 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 17:40:35,399 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 17:40:35,399 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 17:40:35,399 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 17:40:35,416 - INFO - test_Credkart_User_Login_params_DDT_005 - 53 - Taking screenshot for fail
-2024-12-12 17:40:35,416 - INFO - test_Credkart_User_Login_params_DDT_005 - 53 - Taking screenshot for fail
-2024-12-12 17:40:35,416 - INFO - test_Credkart_User_Login_params_DDT_005 - 53 - Taking screenshot for fail
-2024-12-12 17:40:35,510 - INFO - test_Credkart_User_Login_params_DDT_005 - 65 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 17:40:35,510 - INFO - test_Credkart_User_Login_params_DDT_005 - 65 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 17:40:35,510 - INFO - test_Credkart_User_Login_params_DDT_005 - 65 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 17:40:35,510 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 17:40:35,510 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 17:40:35,510 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:32:04,923 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:32:04,923 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:32:04,923 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:32:04,924 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:32:04,924 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:32:04,924 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:32:05,042 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:32:05,042 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:32:05,042 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:32:05,043 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:32:05,043 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:32:05,043 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:32:06,700 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:32:06,700 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:32:06,700 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:32:06,701 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:32:06,701 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:32:06,701 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:32:07,283 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:32:07,283 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:32:07,283 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:32:07,284 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:32:07,284 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:32:07,284 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:32:07,439 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:32:07,439 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:32:07,439 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:32:07,440 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:32:07,440 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:32:07,440 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:32:07,568 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:32:07,568 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:32:07,568 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:32:07,635 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:32:07,635 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:32:07,635 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:32:07,756 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:32:07,756 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:32:07,756 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:32:08,169 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:32:08,169 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:32:08,169 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:32:08,630 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:32:08,630 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:32:08,630 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:32:08,630 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:32:08,630 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:32:08,630 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:32:08,833 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
-2024-12-12 18:32:08,833 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
-2024-12-12 18:32:08,833 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
-2024-12-12 18:32:08,932 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:32:08,932 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:32:08,932 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:32:09,276 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:32:09,276 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:32:09,276 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:32:09,297 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:32:09,297 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:32:09,297 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:32:09,443 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 18:32:09,443 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 18:32:09,443 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 18:32:09,444 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:32:09,444 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:32:09,444 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:32:09,467 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:32:09,467 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:32:09,467 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:32:09,468 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:32:09,468 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:32:09,468 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:32:09,615 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:32:09,615 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:32:09,615 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:32:09,631 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:32:09,631 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:32:09,631 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:32:09,756 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:32:09,756 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:32:09,756 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:32:09,756 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:32:09,756 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:32:09,756 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:32:09,909 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:32:09,909 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:32:09,909 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:32:09,924 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:32:09,924 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:32:09,924 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:32:10,009 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:32:10,009 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:32:10,009 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:32:10,009 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:32:10,009 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:32:10,009 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:32:11,708 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:32:11,708 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:32:11,708 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:32:11,708 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:32:11,708 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:32:11,708 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:32:11,757 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:32:11,757 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:32:11,757 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:32:11,769 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:32:11,769 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:32:11,769 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:32:12,675 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:32:12,675 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:32:12,675 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:32:12,679 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:32:12,679 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:32:12,679 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:32:12,718 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:32:12,718 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:32:12,718 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:32:12,719 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:32:12,719 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:32:12,719 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:33:54,182 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:33:54,182 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:33:54,182 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:33:54,182 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:33:54,182 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:33:54,182 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:33:55,191 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:33:55,191 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:33:55,191 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:33:55,192 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:33:55,192 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:33:55,192 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:33:56,279 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:33:56,279 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:33:56,279 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:33:56,279 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:33:56,279 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:33:56,279 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:33:56,468 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:33:56,468 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:33:56,468 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:33:56,468 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:33:56,468 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:33:56,468 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:33:56,500 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:33:56,500 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:33:56,500 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:33:56,548 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:33:56,548 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:33:56,548 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:33:57,041 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:33:57,041 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:33:57,041 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:33:57,042 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:33:57,042 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:33:57,042 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:33:57,198 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:33:57,198 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:33:57,198 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:33:57,291 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:33:57,291 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:33:57,291 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:33:57,503 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:33:57,503 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:33:57,503 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:33:57,503 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:33:57,503 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:33:57,503 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:33:57,914 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:33:57,914 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:33:57,914 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:33:57,947 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:33:57,947 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:33:57,947 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:33:58,044 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 18:33:58,044 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 18:33:58,044 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 18:33:58,045 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:33:58,045 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:33:58,045 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:33:58,319 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:33:58,319 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:33:58,319 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:33:58,329 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:33:58,329 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:33:58,329 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:33:58,392 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:33:58,392 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:33:58,392 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:33:58,392 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:33:58,392 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:33:58,392 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:33:58,439 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:33:58,439 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:33:58,439 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:33:58,440 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:33:58,440 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:33:58,440 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:33:58,587 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:33:58,587 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:33:58,587 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:33:58,612 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:33:58,612 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:33:58,612 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:33:59,511 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:33:59,511 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:33:59,511 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:33:59,523 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:33:59,523 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:33:59,523 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:33:59,599 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:33:59,599 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:33:59,599 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:33:59,599 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:33:59,599 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:33:59,599 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:33:59,636 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:33:59,636 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:33:59,636 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:33:59,637 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:33:59,637 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:33:59,637 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:33:59,744 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
-2024-12-12 18:33:59,744 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
-2024-12-12 18:33:59,744 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
-2024-12-12 18:33:59,779 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:33:59,779 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:33:59,779 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:34:00,736 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:34:00,736 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:34:00,736 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:34:00,741 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:34:00,741 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:34:00,741 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:34:00,780 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:34:00,780 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:34:00,780 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:34:00,780 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:34:00,780 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:34:00,780 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:56:06,689 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:56:06,689 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:56:06,689 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:56:06,690 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:56:06,690 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:56:06,690 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:56:07,337 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:56:07,337 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:56:07,337 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:56:07,338 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:56:07,338 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:56:07,338 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:56:08,496 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:56:08,496 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:56:08,496 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:56:08,497 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:56:08,497 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:56:08,497 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:56:09,365 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:56:09,365 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:56:09,365 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:56:09,365 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:56:09,365 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:56:09,365 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:56:09,370 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:56:09,370 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:56:09,370 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:56:09,370 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:56:09,370 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:56:09,370 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:56:09,493 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:56:09,493 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:56:09,493 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:56:09,534 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:56:09,534 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:56:09,534 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:56:09,564 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:56:09,564 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:56:09,564 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:56:09,598 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:56:09,598 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:56:09,598 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:56:10,347 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:56:10,347 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:56:10,347 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:56:10,348 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:56:10,348 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:56:10,348 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
-2024-12-12 18:56:10,471 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:56:10,471 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:56:10,471 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
-2024-12-12 18:56:10,494 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:56:10,494 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:56:10,494 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:56:11,078 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:56:11,078 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:56:11,078 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:56:11,083 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:56:11,083 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:56:11,083 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
-2024-12-12 18:56:11,084 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:56:11,084 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:56:11,084 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
-2024-12-12 18:56:11,085 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:56:11,085 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:56:11,085 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:56:11,218 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:56:11,218 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:56:11,218 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:56:11,232 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:56:11,232 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:56:11,232 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:56:11,266 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 18:56:11,266 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 18:56:11,266 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
-2024-12-12 18:56:11,266 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:56:11,266 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:56:11,266 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:56:11,319 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:56:11,319 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:56:11,319 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:56:11,320 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:56:11,320 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:56:11,320 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:56:11,884 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:56:11,884 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:56:11,884 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:56:11,894 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:56:11,894 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:56:11,894 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:56:11,957 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:56:11,957 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:56:11,957 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:56:11,957 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:56:11,957 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:56:11,957 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:56:13,014 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:56:13,014 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:56:13,014 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
-2024-12-12 18:56:13,015 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:56:13,015 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:56:13,015 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
-2024-12-12 18:56:13,146 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
-2024-12-12 18:56:13,146 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
-2024-12-12 18:56:13,146 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
-2024-12-12 18:56:13,172 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:56:13,172 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:56:13,172 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
-2024-12-12 18:56:14,516 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:56:14,516 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:56:14,516 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
-2024-12-12 18:56:14,527 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:56:14,527 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:56:14,527 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
-2024-12-12 18:56:14,566 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:56:14,566 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:56:14,566 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
-2024-12-12 18:56:14,566 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:56:14,566 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
-2024-12-12 18:56:14,566 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 19:12:50,891 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 19:12:50,891 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 19:12:50,891 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 19:12:50,891 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 19:12:50,891 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 19:12:50,891 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 19:12:51,850 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 19:12:51,850 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 19:12:51,850 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 19:12:51,850 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 19:12:51,850 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 19:12:51,850 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 19:12:53,064 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 19:12:53,064 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 19:12:53,064 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 19:12:53,064 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 19:12:53,064 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 19:12:53,064 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 19:12:55,482 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 19:12:55,482 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 19:12:55,482 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 19:12:55,482 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 19:12:55,482 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 19:12:55,482 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 19:12:56,596 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 19:12:56,596 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 19:12:56,596 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 19:12:56,597 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
+2024-12-12 19:12:56,597 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
+2024-12-12 19:12:56,597 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
+2024-12-12 19:12:56,643 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 19:12:56,643 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 19:12:56,643 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 19:12:56,643 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
+2024-12-12 19:12:56,643 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
+2024-12-12 19:12:56,643 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
+2024-12-12 19:12:56,731 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
+2024-12-12 19:12:56,731 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
+2024-12-12 19:12:56,731 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
+2024-12-12 19:12:56,787 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 19:12:56,787 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 19:12:56,787 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 19:12:56,788 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
+2024-12-12 19:12:56,788 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
+2024-12-12 19:12:56,788 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
+2024-12-12 19:12:56,812 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 19:12:56,812 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 19:12:56,812 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 19:12:56,814 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 19:12:56,814 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 19:12:56,814 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 19:12:56,833 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 19:12:56,833 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 19:12:56,833 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 19:12:56,912 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 19:12:56,912 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 19:12:56,912 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 19:12:56,987 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 19:12:56,987 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 19:12:56,987 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 19:12:57,145 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 19:12:57,145 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 19:12:57,145 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 19:12:57,145 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
+2024-12-12 19:12:57,145 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
+2024-12-12 19:12:57,145 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
+2024-12-12 19:12:57,230 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 19:12:57,230 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 19:12:57,230 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 19:12:57,251 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 19:12:57,251 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 19:12:57,251 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 19:12:58,245 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 19:12:58,245 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 19:12:58,245 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 19:12:58,254 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 19:12:58,254 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 19:12:58,254 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 19:12:58,410 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 19:12:58,410 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 19:12:58,410 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 19:12:58,422 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 19:12:58,422 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 19:12:58,422 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 19:12:58,422 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 19:12:58,422 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 19:12:58,422 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 19:12:58,437 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 19:12:58,437 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 19:12:58,437 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 19:12:58,537 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 19:12:58,537 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 19:12:58,537 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 19:12:58,545 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 19:12:58,545 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 19:12:58,545 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 19:12:58,590 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
+2024-12-12 19:12:58,590 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
+2024-12-12 19:12:58,590 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
+2024-12-12 19:12:58,590 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 19:12:58,590 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 19:12:58,590 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 19:12:58,642 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 19:12:58,642 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 19:12:58,642 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 19:12:58,642 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 19:12:58,642 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 19:12:58,642 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 19:12:58,694 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 19:12:58,694 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 19:12:58,694 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 19:12:58,695 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 19:12:58,695 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 19:12:58,695 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 19:12:58,709 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 19:12:58,709 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 19:12:58,709 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 19:12:58,710 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 19:12:58,710 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 19:12:58,710 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 23:38:21,485 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 23:38:21,485 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 23:38:21,485 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 23:38:21,486 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 23:38:21,486 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 23:38:21,486 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 23:38:22,439 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 23:38:22,439 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 23:38:22,439 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 23:38:22,439 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 23:38:22,439 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 23:38:22,439 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 23:38:24,496 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 23:38:24,496 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 23:38:24,496 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 23:38:24,497 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
+2024-12-12 23:38:24,497 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
+2024-12-12 23:38:24,497 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
+2024-12-12 23:38:26,119 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 23:38:26,119 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 23:38:26,119 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 23:38:26,819 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 23:38:26,819 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 23:38:26,819 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 23:38:28,386 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 23:38:28,386 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 23:38:28,386 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 23:38:28,386 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 23:38:28,386 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 23:38:28,386 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 23:38:28,625 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 23:38:28,625 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 23:38:28,625 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 23:38:28,626 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
+2024-12-12 23:38:28,626 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
+2024-12-12 23:38:28,626 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
+2024-12-12 23:38:29,097 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 23:38:29,097 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 23:38:29,097 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 23:38:29,107 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 23:38:29,107 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 23:38:29,107 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 23:38:29,231 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 23:38:29,231 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 23:38:29,231 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 23:38:29,285 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 23:38:29,285 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 23:38:29,285 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 23:38:29,967 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 23:38:29,967 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 23:38:29,967 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 23:38:29,968 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 23:38:29,968 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 23:38:29,968 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 23:38:30,479 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 23:38:30,479 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 23:38:30,479 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 23:38:30,491 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 23:38:30,491 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 23:38:30,491 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 23:38:30,977 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
+2024-12-12 23:38:30,977 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
+2024-12-12 23:38:30,977 - INFO - test_Credkart_User_Login_params_DDT_005 - 66 - Testcase test_CredKart_User_Login_params_DDT_005 is Fail
+2024-12-12 23:38:30,977 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 23:38:30,977 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 23:38:30,977 - INFO - test_Credkart_User_Login_params_DDT_005 - 67 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 23:38:31,134 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 23:38:31,134 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 23:38:31,134 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 23:38:31,134 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
+2024-12-12 23:38:31,134 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
+2024-12-12 23:38:31,134 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com1
+2024-12-12 23:38:31,420 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 23:38:31,420 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 23:38:31,420 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@123
+2024-12-12 23:38:31,463 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 23:38:31,463 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 23:38:31,463 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 23:38:33,097 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 23:38:33,097 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 23:38:33,097 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 23:38:33,115 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 23:38:33,115 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 23:38:33,115 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 23:38:33,295 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 23:38:33,295 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 23:38:33,295 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 23:38:33,296 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 23:38:33,296 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 23:38:33,296 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 23:38:40,127 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 23:38:40,127 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 23:38:40,127 - INFO - test_Credkart_User_Login_params_DDT_005 - 26 - Testcase test_Credkart_User_Login_params_DDT_005 is started
+2024-12-12 23:38:40,127 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 23:38:40,127 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 23:38:40,127 - INFO - test_Credkart_User_Login_params_DDT_005 - 27 - Opening Browser
+2024-12-12 23:38:42,072 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 23:38:42,072 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 23:38:42,072 - INFO - test_Credkart_User_Login_params_DDT_005 - 31 - Going to CreKart URl-->https://automation.credence.in/login
+2024-12-12 23:38:42,072 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
+2024-12-12 23:38:42,072 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
+2024-12-12 23:38:42,072 - INFO - test_Credkart_User_Login_params_DDT_005 - 36 - Entering email-->Credencetest@test.com
+2024-12-12 23:38:42,238 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
+2024-12-12 23:38:42,238 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
+2024-12-12 23:38:42,238 - INFO - test_Credkart_User_Login_params_DDT_005 - 39 - Entering Password-->Crdence@1231
+2024-12-12 23:38:42,285 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 23:38:42,285 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 23:38:42,285 - INFO - test_Credkart_User_Login_params_DDT_005 - 42 - Click on submit button
+2024-12-12 23:38:43,320 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 23:38:43,320 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 23:38:43,320 - INFO - test_Credkart_User_Login_params_DDT_005 - 45 - verify the user login or not
+2024-12-12 23:38:43,332 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 23:38:43,332 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 23:38:43,332 - INFO - test_Credkart_User_Login_params_DDT_005 - 54 - Taking screenshot for fail
+2024-12-12 23:38:43,411 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 23:38:43,411 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 23:38:43,411 - INFO - test_Credkart_User_Login_params_DDT_005 - 62 - Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-12 23:38:43,412 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 23:38:43,412 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
+2024-12-12 23:38:43,412 - INFO - test_Credkart_User_Login_params_DDT_005 - 63 - Testcase test_CredKart_User_Login_params_DDT_005 is completed
